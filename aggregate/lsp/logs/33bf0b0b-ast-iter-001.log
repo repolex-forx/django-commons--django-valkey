@@ -1,0 +1,7 @@
+[2026-11-02T18:31:51Z] === AST ITERATION 1 START | repo=django-commons/django-valkey sha=33bf0b0b ===
+[2026-11-02T18:31:51Z] [iter=1] PHASE START: ast repo=django-commons/django-valkey sha=33bf0b0b
+[2026-11-02T18:31:51Z] [iter=1] Building AST aggregate chunks
+[2026-11-02T18:32:46Z] [iter=1] AST chunks built count=1 triples=492767
+[2026-11-02T18:32:46Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/33bf0b0b921b9966bfeaedb9a9405018ef61e7ff/.complete
+[2026-11-02T18:32:46Z] [iter=1] PHASE END: ast elapsed_s=55 elapsed_min=0.9
+[2026-11-02T18:32:46Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
