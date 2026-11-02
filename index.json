@@ -1,0 +1,11 @@
+{
+  "org": "django-commons",
+  "repo": "django-valkey",
+  "versions": [
+    {
+      "commit": "33bf0b0b921b9966bfeaedb9a9405018ef61e7ff",
+      "tag": "",
+      "parsed_at": "2026-11-02T18:34:04.584372+00:00"
+    }
+  ]
+}
