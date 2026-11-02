@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/django-commons/django-valkey/commit/33bf0b0b921b9966bfeaedb9a9405018ef61e7ff",
       "git:hexsha": "33bf0b0b921b9966bfeaedb9a9405018ef61e7ff",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-02T18:34:04.583842+00:00"
     },
     {
       "@id": "https://repolex.ai/r/django-commons/django-valkey/commit/d37a0a9f21c38b097956fd9e025edc676df9df70",
